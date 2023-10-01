@@ -1,0 +1,79 @@
+html,body{
+  margin: 0;
+  padding: 0;
+  background-color: #6d6d6d;
+}
+.titolo{
+  text-align: center;
+  margin: 0;
+  padding: 1px;
+  height: auto;
+  background-color:red;
+}
+.Downbar{
+  background-color: #f05545;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  
+}
+.Downbar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.Downbar li a{
+  text-decoration: none;
+  color: beige;
+}
+.Downbar li{
+  display: inline-block;
+  padding: 10px;
+}
+.testo{
+  color: white;
+  width: 60%;
+  padding: 10px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: small;
+}
+#lista li{
+  padding: 10px;
+}
+#foto1{
+  float: right;
+}
+.img{
+  float: right;
+}
+.img img{
+  float: right;
+  width: 255px;
+  height: auto;
+}
+.img a{
+  text-decoration: none;
+}
+.img figcaption{
+  font-size: small;
+  color: white;
+  font-style: italic;
+}
+#WarHammer{
+  float: right;
+}
+#WarHammer img{
+  width: 500px;
+  height: auto;
+  float: right;
+}
+#link li a{
+  color: yellow;
+}
+.end{
+  margin: 0;
+  padding: 5px;
+  background-color: #ff5f52;
+  text-align: center;
+}
